@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(32, 34, 37);
+    font-family: Helvetica;
+    padding: 10px;
+}
+
+p {
+    color: rgb(255, 255, 255)
+}
+
+a {
+    color:rgb(255, 255, 255)
+}
+
+li {
+    color:rgb(255, 255, 255)
+}
+
+h1 {
+    color: rgb(237, 66, 69)
+}
+
+.Homepage {
+    color: rgb(237, 66, 69)
+}
+
